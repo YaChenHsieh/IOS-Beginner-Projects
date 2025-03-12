@@ -1,10 +1,10 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Trivia*
 
-Submitted by: **Your Name Here**
+Submitted by: **YaChen Hsieh (Angel)**
 
-**Name of your app** is an app that ... [TODO] 
+**Trivia** is a simple quiz app where users answer multiple-choice questions, track their progress, and see their final score. It allows users to restart the game, and ensures a smooth question navigation experience.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
